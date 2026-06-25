@@ -6,8 +6,8 @@ This is a courier service website backend ( Zap shift ).
 - MongoDB
 - Firebase
 
-[Live link]()
+[Live link](https://zapshift-client.pages.dev/)
 
-[Frontend repository](https://github.com/Pratush26/Zap-Shift-frontend)
+[Frontend repository](https://github.com/alihasna32/zapshift-client)
 
-[Backend repository](https://github.com/Pratush26/Zap-Shift-backend)
+[Backend repository](https://github.com/alihasna32/zapshift-server)
